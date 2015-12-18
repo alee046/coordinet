@@ -9,6 +9,6 @@
 5. Javascript/HTML/CSS
 ###How does it Work!?
 1. Pick your name and status.
-2. ???? *socket magic*
+2. ???? **socket magic*
 3. ![Alt text](https://i.imgur.com/Pn0vk2z.jpg)
 
