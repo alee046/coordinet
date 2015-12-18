@@ -5,7 +5,7 @@
 1. Pick your name and status.
 2. ????
 3. ![Alt text](https://i.imgur.com/Pn0vk2z.jpg)
-Technologies used.
+####Technologies used.
 * Node.js
 * Socket.io
 * Ionic//Angular
